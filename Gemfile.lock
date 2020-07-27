@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    clamby (1.6.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  clamby
+
+BUNDLED WITH
+   2.1.2
